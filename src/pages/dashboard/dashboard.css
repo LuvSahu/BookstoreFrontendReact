@@ -1,0 +1,78 @@
+/* .bookcontainer{
+    position: relative;
+    width: 76vw;
+    height: 100vh;
+    top: 1%;
+    display: flex;
+    gap: 55px;
+    flex-wrap: wrap;
+    cursor: pointer;
+    border: 1px solid black;
+
+}
+
+.book1{
+
+    position: relative;
+    width: 20%;
+    height: 45%;
+    border-radius: 4px;
+    left: 32%;
+    top: 2%;
+    border: 1px solid rgb(235, 227, 227);
+
+    background-color: #F5F5F5;
+}
+
+.Text{
+    position: relative;
+    gap: 2px;
+    width: 99%;
+    height: 35%;
+    top: 65%;
+    background-color: #FFFFFF;
+    border: 1px solid rgb(235, 227, 227);
+}
+
+.bookName{
+    position: absolute;
+    top: -11%;
+    left: 6%;
+}
+
+.author{
+    position: absolute;
+    top: 18%;
+    left: 6%;
+    font-size: 75%;
+}
+
+.rating{
+    position: absolute;
+    top: 33%;
+    left: 6%;
+    font-size: 90%;
+
+} 
+
+.price{
+    position: absolute;
+    left: 6%;
+    top: 52%;
+    font-size: 95%;
+}
+
+img{
+    position: absolute;
+    top: 5%;
+    left: 22%;
+} */
+
+.pagination{
+    position: relative;
+    /* top: 70%; */
+    display: flex;
+    justify-content: center;
+    left: 40px;
+    margin-top: 90%;
+}

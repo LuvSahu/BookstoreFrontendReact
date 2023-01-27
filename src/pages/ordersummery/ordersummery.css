@@ -1,0 +1,95 @@
+.orderContainer{
+    position: relative;
+    display: flex;
+    width: 60vw;
+    height: auto;
+    border: 1px solid rgb(230, 221, 221);
+    left: -77%;
+    /* top: 325%; */
+    margin-top: 12%;
+
+}
+
+.itemone{
+    display: flex;
+    position: relative;
+    left: 4%;
+    font-weight: bold;
+    font-size: large;
+    width: 48%;
+    margin-top: 2%;
+}
+
+.Imgi1{
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+.rowtwo{
+    width: 35%;
+    height: 60%;
+    margin-top: 3%;
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* border: 2px solid black; */
+    left: -380px;
+    
+    
+}
+
+/* .itemtwo{
+    position: relative;
+    left: 17%;
+} */
+
+.item21{
+    /* border: 1px solid red; */
+    height: 60%;
+    width: 90%;
+    position: relative;
+    left: 45%;
+    top: 23%;
+}
+
+.bookrow1{
+    position: absolute;
+    /* top: 6px; */
+    width: auto;
+}
+
+.row31{
+    position: absolute;
+    font-size: 80%;
+    color: #b9b9b9;
+    width: auto;
+    top: 25px;
+}
+
+.row41{
+    position: absolute;
+    top: 60%;
+    font-weight: bold;
+    width: auto;
+}
+
+.row12{
+    position: absolute;
+    top: 95%;
+    left: 75%;
+}
+
+.bookcost1{
+    left: 10%;
+
+    position: relative;
+    color: #878787;
+    text-decoration: line-through;
+    font-size: 70%;
+}
+#btn-13{
+    width: 140%;
+    background-color: #3371B5;
+}

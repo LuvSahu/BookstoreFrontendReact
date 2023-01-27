@@ -1,0 +1,108 @@
+.component {
+    height: 100vh;
+    width: 100vw;
+    background-color: #BFBDBD;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.header {
+    width: 45%;
+    height: 50%;
+    flex-direction: column;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    background: #F5F5F5;
+    border-radius: 21px;
+    opacity: 1;
+    background-color: rgba(245, 245, 245, 0.893);
+    left: 22%;
+    top: 22%;
+    z-index: 1;
+
+}
+
+.img-box {
+    border-radius: 3px;
+    height: 50%;
+    right: 25%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.img1 {
+
+    height: 125%;
+    width: 95%;
+    border-radius: 70%;
+    display: flex;
+    position: relative;
+    top: 48px;
+    /* align-self: center; */
+    left: 3%;
+
+
+}
+
+.text-online {
+    display: flex;
+    position: relative;
+    top: 85px;
+    align-self: center;
+
+}
+
+.btn{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    /* border: 3px solid green; */
+    top: 5%;
+    left: 15%;
+    width: 70%;
+    z-index: 5;
+
+ }
+
+
+ #sign{
+    display: flex;
+    position: relative;
+    left: 28%;
+}
+
+.toggle-btn {
+    /* display: flex; */
+    cursor: pointer;
+    border: 0;
+    background-color: transparent;
+    /* flex-direction: column; */
+    outline: none;
+    /* position: relative; */
+    font-size: 20px;
+    /* border: 3px solid red; */
+
+
+}
+
+.form-head {
+    width: 25%;
+    height: 56%;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    justify-content: center;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 5px 15px #00000029;
+    border: 1px solid #E4E4E4;
+    border-radius: 6px;
+    opacity: 1;
+    top: 19%;
+    left: 43%;
+    z-index: 5;
+
+}

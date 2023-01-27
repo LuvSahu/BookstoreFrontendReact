@@ -1,0 +1,306 @@
+.container1{
+    position: absolute;
+    width: 75vw;
+    height: 80vh;
+    /* border: 2px solid red; */
+    left: 12%;
+    top: 15%;
+    /* flex-direction: column; */
+    /* display: flex; */
+}
+
+.smallbook{
+    position: absolute;
+    width: 3%;
+    height: 8%;
+    border: 1px solid rgb(228, 103, 103);
+    left: -3.1%;
+    cursor: pointer;
+    
+}
+
+.selectimgs:hover{
+    border: #3371B5;
+    background-color: #6b96c5;
+}
+
+.selectimgs{
+   position: absolute;
+   width: 80%;
+   height: 85%;
+   align-items: center;
+   left: 12%;
+}
+
+.smallbook1{
+    position: absolute;
+    width: 3%;
+    height: 8%;
+    border: 1px solid rgb(194, 183, 183);
+    left: -3.1%;
+    cursor: pointer;
+    top: 8%;
+    
+}
+
+.selectimgs1{
+    position: absolute;
+    width: 80%;
+    height: 85%;
+    align-items: center;
+    left: 12%;
+ }
+
+.bookone{
+    position: absolute;
+    border: 1px solid rgb(194, 183, 183);
+    height: 58%;
+    width: 30%;
+    opacity: 1;
+}
+
+
+
+.imgs{
+    width: 68%;
+    position: absolute;
+    align-items: center;
+    left: 16%;
+}
+
+.btns{
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    width: 30%;
+    height: 6%;
+    /* border: 2px solid green; */
+    top: 65%;
+    justify-content: space-between;
+
+}
+
+#tag-btn{
+    position: absolute;
+    border: none;
+    height: 90%;
+    width: 47%;
+    background-color: #A03037;
+    border-radius: 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+#wish-btn{
+    position: absolute;
+    border: none;
+    height: 90%;
+    width: 47%;
+    background-color: black;
+    border-radius: 2px;
+    color: #FFFFFF;
+    cursor: pointer;
+    left: 53%;
+}
+
+.wishlist{
+    position: absolute;
+    border: none;
+    height: 90%;
+    width: 47%;
+    background-color: black;
+    border-radius: 2px;
+    color: #FFFFFF;
+    left: 53%;
+    cursor: pointer;
+
+}
+
+.details{
+    position: relative;
+   width: 65%;
+   height: 95%;
+   /* border: 2px solid #A03037; */
+   left: 35%;
+}
+
+.Textone{
+    position: relative;
+    width: 50%;
+    height: 28%;
+    /* border: 1px solid forestgreen; */
+    /* top: -5%; */
+    /* gap: 20px; */
+}
+
+.bookNameone{
+    position: absolute;
+    top: -14%;
+    /* left: -15%; */
+    /* width: 125%; */
+    /* border: 1px solid black; */
+}
+
+.authorone{
+    position: absolute;
+    top: 16%;
+}
+
+.ratings{
+    position: absolute;
+    display: flex;
+    /* flex-direction: ; */
+    width: 30%;
+    height: 20%;
+    /* border: 2px solid rgb(192, 81, 100); */
+    top: 35%;
+    /* justify-content: space-between; */
+}
+
+.ratingone{
+    position: relative;
+    top: 25%;
+    background-color: green;
+    color: #FFFFFF;
+    border-radius: 2px;
+    border: none;
+    width: 50%;
+    height: 66%;
+    top: 50%;
+}
+
+.totalratings{
+    position: relative;
+    left: 15%;
+    top: -12%;
+}
+
+.priceone{
+    position: absolute;
+    top: 43%;
+    font-size: 180%;
+}
+
+.description{
+    position: relative;
+    width: 100%;
+    height: 30%;
+    /* border: 1px solid slateblue; */
+    /* top: 10%; */
+}
+
+.bookDetails{
+    position: absolute;
+    /* left: -1%; */
+    top: -5%;
+}
+
+.paragraph{
+    position: absolute;
+    top: 8%;
+    left: -3.15%;
+
+}
+
+/* .lineone{
+    position: absolute;
+    top: -25%;
+}
+
+.linetwo{
+    position: absolute;
+    top: 75%;
+} */
+
+#line1{
+    position: relative;
+    top: -13%;
+}
+
+#line2{
+    position: relative;
+    top: 77%;
+
+}
+
+.feedback{
+    position: relative;
+    width: 99%;
+    height: 41%;
+    /* border: 2px solid blue; */
+    top: 1%;
+}
+
+.ratingfeed{
+    background-color: #F5F5F5;
+    height: 87%;
+    position: relative;
+    top: -10%;
+}
+
+.cF{
+    position: relative;
+    top: -10%;
+    right: 37%;
+}
+
+.oR{
+    position: absolute;
+    /* top: -10%; */
+    left: 2%;
+}
+
+.star{
+    position: absolute;
+    top: 5%;
+    font-size: 180%;
+    left: 2%;
+}
+
+.searchbody1{
+    position: relative;
+    top: 45%;
+    background-color: white;
+    width:95%;
+    height: 35%;
+    border-radius: 3px;
+    left: 2%;
+}
+
+.searchboxx1{
+    position: absolute;
+    width: 90%;
+    left: 4%;
+    top: 22%;
+    outline: none;
+    border: none;
+}
+
+.submitbtn{
+    position: absolute;
+    top: 85%;
+    left: 83.7%;
+    width: 13%;
+    background-color: #3371B5;
+    border: none;
+    color: #FFFFFF;
+    height: 12%;
+    cursor: pointer;
+}
+
+.row51{
+    /* border: 1px solid black; */
+    height: 80%;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    color: rgb(158, 160, 160);
+}
+
+.numbers1{
+    border: 1px solid rgb(212, 210, 210);
+    width: 50%;
+}

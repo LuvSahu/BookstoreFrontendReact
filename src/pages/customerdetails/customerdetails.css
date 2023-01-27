@@ -1,0 +1,109 @@
+.Maincontainer{
+    width: 60vw;
+    height: 80vh;
+    border: 1px solid rgb(230, 221, 221);
+    position: relative;
+
+    left: -76%;
+    top: 20%;
+    margin-top: 10%;
+
+}
+.item15{
+    display: flex;
+    position: relative;
+    top: 5%;
+    /* gap: 290%; */
+    left: 4%;
+    font-weight: bold;
+    font-size: large;
+}
+
+.address{
+    position: absolute;
+    left: 53%;
+    /* width: 40%; */
+}
+
+.item4{
+    position: relative;
+    top: 10%;
+}
+
+.rowseven{
+    position: relative;
+    top: 10%;
+    display: flex;
+    width: 67%;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    left: 4%;
+}
+
+.rowaddress{
+    position: relative;
+    top: 15%;
+    display: flex;
+    left: 4%;
+}
+
+.row9{
+    position: relative;
+    top: 16%;
+    display: flex;
+    left: 4%;
+    /* width: 50%;
+    height: 30%; */
+    width: 67%;
+    /* border: 1px solid rgb(201, 191, 191); */
+}
+
+.row71{
+    position: relative;
+    top: 23%;
+    display: flex;
+    width: 67%;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    left: 4%;
+
+}
+
+#row10{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 68%;
+    left: -92%;
+    gap: 16%;
+    width: 180%;
+    /* border: 1px solid red; */
+}
+
+.rowten{
+    position: relative;
+    top: 30%;
+    left: -0.5%;
+    border: 1px solid black;
+}
+
+#demo-radio-buttons-group-label{
+    position: relative;
+    /* top: 29%;
+    left: -44%; */
+    top: 24%;
+    left: -135%;
+    color: black;
+}
+
+.row11{
+    position: absolute;
+    top: 87%;
+    left: 77%;
+}
+
+#btn-11{
+    width: 140%;
+    background-color: #3371B5;
+    color: white;
+}
